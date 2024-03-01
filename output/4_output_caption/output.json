@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "e163a5b0-e8a6-405b-97b5-ea3e8f08d927",
+  "content-length": "167",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a woman taking a picture with a camera",
+    "confidence": 0.8710969686508179
+  },
+  "metadata": {
+    "width": 4620,
+    "height": 6930
+  }
+}
